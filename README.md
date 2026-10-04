@@ -1,6 +1,10 @@
 # Leelaprasad Vennu
 
-**Junior Software Engineer | Python | React | TypeScript | AI Agent Evaluation**
+**Software Engineer — Backend + AI Training Specialist | Python | React | TypeScript | FastAPI | Flask | Deterministic Verifiers**
+
+Built and tested FastAPI/Flask APIs with validation, authorization stubs, CRUD, filtering, concurrency handling, and deterministic verifiers that accept reasonable valid solutions and reject invalid and security cases.
+
+Verified 2026-10-04: Issue Tracker 12 backend tests + 7 verifier tests; Task App 8 backend tests + 7 verifier tests. Frontend tests and production builds also pass. See the linked repositories for reproducible commands and limitations.
 
 I build practical, well-documented web applications and evaluation tooling at the intersection of software engineering and AI training. My current focus is implementing web features that are correct, accessible, and resilient across validation, authorization, network, and empty-state edge cases.
 
